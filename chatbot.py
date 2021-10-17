@@ -21,3 +21,11 @@ print("I see, so, in addition to " + funactivity + ", what's favorite food?")
 favfood = input()
 
 print("ah, " + favfood + "! holy nutballs, that sounds good.")
+
+input()
+
+print("so tell me what is it about " + funactivity + " that you like so much?")
+
+input()
+
+print("very nice.")
