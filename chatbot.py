@@ -20,7 +20,7 @@ print("I see, so, in addition to " + funactivity + ", what's favorite food?")
 
 favfood = input()
 
-print("ah, " + favfood + "! holy nutballs, that sounds good.")
+print("ah, " + favfood + "! , that sounds good.")
 
 input()
 
